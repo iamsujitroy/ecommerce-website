@@ -11,8 +11,9 @@ yarn dev
 # or
 pnpm dev
 ```
-
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+click [here](https://exclusive-ecommerce-website.netlify.app) to see the website.
+https://www.figma.com/file/Y9tEzpE20ydTeLSf50Owl9/Full-E-Commerce-Website-UI-UX-Design-(Community)?node-id=34-213&t=j4PXsbYWyq9XfmpA-0
+Open [http://localhost:3000](https://exclusive-ecommerce-website.netlify.app) with your browser to see the result.
 
 You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
 
